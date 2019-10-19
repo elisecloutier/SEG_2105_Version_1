@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "984450051735",
+    "firebase_url": "https://caducia-f1501.firebaseio.com",
+    "project_id": "caducia-f1501",
+    "storage_bucket": "caducia-f1501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984450051735:android:b1e97637a163a2ccc743d2",
+        "android_client_info": {
+          "package_name": "com.example.seg2105walkinclinicservicesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984450051735-pi7cig9l8f6rlqacj120k95bjnblo5ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seg2105walkinclinicservicesapp",
+            "certificate_hash": "b53e5801768e2a2b82578b20fe9e1ee4f0a8d7be"
+          }
+        },
+        {
+          "client_id": "984450051735-kvke8bvq0cigi439bvuufe3eoeigdtri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seg2105walkinclinicservicesapp",
+            "certificate_hash": "be4c164439c375324b18d4047f5673993aad87ca"
+          }
+        },
+        {
+          "client_id": "984450051735-00ho4j2kla922l2lvb227tst89d101f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJRBFfZRuuGG22vQ--9yx3p4pcpnVBcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984450051735-00ho4j2kla922l2lvb227tst89d101f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

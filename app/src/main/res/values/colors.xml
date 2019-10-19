@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EDF2FA</color>
+    <color name="colorPrimaryDark">#010419</color>
+    <color name="colorAccent">#030c47</color>
+
+    <color name="white">#edf2fa</color>
+    <color name="pink">#e91e63</color>
+    <color name="purple">#9c27b0</color>
+    <color name="deep_purple">#673ab7</color>
+
+    <integer-array name="colors_hex_code">
+        <item>@color/white</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/deep_purple</item>
+    </integer-array>
+</resources>

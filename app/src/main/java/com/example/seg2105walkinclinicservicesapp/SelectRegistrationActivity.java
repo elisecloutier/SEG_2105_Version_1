@@ -49,4 +49,9 @@ public class SelectRegistrationActivity extends AppCompatActivity {
         startActivity(patientSignup);
     }
 
+    private void setClinicSignup(View view) {
+        Intent clinicSignup = new Intent(packageContext: this, ClinicSignupActivity.class);
+        startActivity(clinicSignup);
+    }
+
 }
